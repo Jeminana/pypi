@@ -1,8 +1,8 @@
 [project]
-name = "example_package_hyuaisl"
+name = "example_package_Jeminana"
 version = "0.0.1"
 authors = [
-  { name="HYU AISL", email="choye@hanyang.ac.kr" },
+  { name="NAjmi", email="sadenajmi@gmail.com" },
 ]
 description = "A small example package"
 readme = "README.md"
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/hyuaisl/sampleproject"
-Issues = "https://github.com/hyuaisl/sampleproject/issues"
+Homepage = "https://github.com/Jeminana/sampleproject"
+Issues = "https://github.com/Jeminana/sampleproject/issues"
